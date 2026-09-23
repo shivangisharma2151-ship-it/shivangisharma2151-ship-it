@@ -5,7 +5,7 @@
 ### 💻 Computer Science Student | Software Developer | Tech Explorer
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/shivangi-sharma-43a613292/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/shivangisharma2151-ship-it">
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Shivangi**, a Computer Science student passionate about building
+I'm **Shivangi Sharma**, a Computer Science student passionate about building
 useful software and exploring emerging technologies.
 
 - 🔭 Currently working on software & AI projects
